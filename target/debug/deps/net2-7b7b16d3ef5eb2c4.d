@@ -1,0 +1,13 @@
+/Users/kasmadi/Documents/Projects/Rust/rust-weather-app/target/debug/deps/net2-7b7b16d3ef5eb2c4.rmeta: /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/Users/kasmadi/Documents/Projects/Rust/rust-weather-app/target/debug/deps/net2-7b7b16d3ef5eb2c4.d: /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs
+
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/lib.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/tcp.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/udp.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/socket.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/ext.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/utils.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/mod.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/sys/unix/impls.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.34/src/unix.rs:

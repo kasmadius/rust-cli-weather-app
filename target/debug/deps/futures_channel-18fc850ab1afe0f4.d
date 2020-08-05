@@ -1,0 +1,11 @@
+/Users/kasmadi/Documents/Projects/Rust/rust-weather-app/target/debug/deps/futures_channel-18fc850ab1afe0f4.rmeta: /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lib.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lock.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/mod.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/queue.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/oneshot.rs
+
+/Users/kasmadi/Documents/Projects/Rust/rust-weather-app/target/debug/deps/libfutures_channel-18fc850ab1afe0f4.rlib: /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lib.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lock.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/mod.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/queue.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/oneshot.rs
+
+/Users/kasmadi/Documents/Projects/Rust/rust-weather-app/target/debug/deps/futures_channel-18fc850ab1afe0f4.d: /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lib.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lock.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/mod.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/queue.rs /Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/oneshot.rs
+
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lib.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/lock.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/mod.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/mpsc/queue.rs:
+/Users/kasmadi/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.5/src/oneshot.rs:
